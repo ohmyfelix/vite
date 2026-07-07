@@ -18,11 +18,9 @@
 Website 🚀 <a href="https://contributte.org">contributte.org</a> | Contact 👨🏻‍💻 <a href="https://f3l1x.io">f3l1x.io</a> | Twitter 🐦 <a href="https://twitter.com/contributte">@contributte</a>
 </p>
 
-# Vite
-
 Vite integration for Nette Framework.
 
-## Version
+## Versions
 
 | State  | Version | Branch   | Nette  | PHP     |
 |--------|---------|----------|--------|---------|
@@ -180,7 +178,7 @@ export default {
 - `vite` - to run Vite dev server
 - `vite build` - to build your assets for production
 
-That's it, pretty simple right?
+That's the basic setup.
 
 You can learn more about Vite on the official website at [vitejs.dev](https://vitejs.dev/).
 
